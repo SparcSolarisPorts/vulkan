@@ -1,0 +1,11 @@
+# Built objects/artifacts: sources and scripts remain tracked.
+build/
+**/build/
+*.o
+*.so
+*.so.*
+*.a
+*.log
+*.pyc
+__pycache__/
+.DS_Store
